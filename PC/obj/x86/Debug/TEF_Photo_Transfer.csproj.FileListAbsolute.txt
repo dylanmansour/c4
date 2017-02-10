@@ -1,0 +1,55 @@
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.exe
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.exe
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.exe
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.exe
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\photo_transfer_data.txt
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2014_csProjects\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.exe
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.pdb
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\photo_transfer_data.txt
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.exe
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.pdb
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+C:\Users\HAF1CH\Downloads\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.exe
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csprojResolveAssemblyReference.cache
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\photo_transfer_data.txt
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.exe
+I:\Dept\TEF\Shared\All Products\TEF3\034. TEF3.4 TPM, Standards, I4.0\040. Co-ops\2015 - Fardad Hajirostami\TEF_Photo_Transfer\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.exe
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\bin\Debug\photo_transfer_data.txt
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.exe
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\bin\Debug\TEF_Photo_Transfer.pdb
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csprojResolveAssemblyReference.cache
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\2016_csProjects\TEF_Photo_Transfer\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache
+C:\Users\posey\Desktop\TEF_Photo_Transfer - CopyToTEF\obj\x86\Debug\TEF_Photo_Transfer.exe
+C:\Users\posey\Desktop\TEF_Photo_Transfer - CopyToTEF\obj\x86\Debug\TEF_Photo_Transfer.pdb
+C:\Users\posey\Desktop\TEF_Photo_Transfer - CopyToTEF\obj\x86\Debug\TEF_Photo_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\posey\Desktop\TEF_Photo_Transfer - CopyToTEF\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+C:\Users\posey\Desktop\TEF_Photo_Transfer - CopyToTEF\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+C:\Users\posey\Desktop\TEF_Photo_Transfer - CopyToTEF\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache
+C:\Users\posey\Desktop\PC\obj\x86\Debug\TEF_Photo_Transfer.exe
+C:\Users\posey\Desktop\PC\obj\x86\Debug\TEF_Photo_Transfer.pdb
+C:\Users\posey\Desktop\PC\obj\x86\Debug\TEF_Photo_Transfer.csprojResolveAssemblyReference.cache
+C:\Users\posey\Desktop\PC\obj\x86\Debug\TEF_Photo_Transfer.formMain.resources
+C:\Users\posey\Desktop\PC\obj\x86\Debug\TEF_Photo_Transfer.Properties.Resources.resources
+C:\Users\posey\Desktop\PC\obj\x86\Debug\TEF_Photo_Transfer.csproj.GenerateResource.Cache

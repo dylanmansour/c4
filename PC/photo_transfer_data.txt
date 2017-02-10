@@ -1,0 +1,4 @@
+camera,C:\!camera
+local,C:\!camera_archive
+ugly,I:\Dept\ICO\Shared\Software_Development\09_Csharp_Projects\!remote_pic_archive
+remote,I:\Projects\TEF\TEF3 Crib Photos
