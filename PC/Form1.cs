@@ -135,7 +135,7 @@ namespace TEF_Photo_Transfer
                             return;
                         } else {
                           Debug.WriteLine("Pos1");
-                            insertIntoSQL(newDestFilename, destFile); //update SQL
+                            //insertIntoSQL(newDestFilename, destFile); //update SQL
                             Debug.WriteLine("Pos2");
                             System.IO.File.Copy(sourceFile, destFile, true); //copy file to remote folder
                             Debug.WriteLine("Pos3");
@@ -162,7 +162,7 @@ namespace TEF_Photo_Transfer
       //NOTE: Modified database table to run on new server from 2008
       //      --alter table dbo.t_tefPhotos drop column ID
       //--alter table dbo.t_tefPhotos add ID int identity(1,1)
-
+/*
         private void insertIntoSQL(string fileName, string filePath)
         {
             string query = "insert into dbo.t_tefPhotos (PhotoName, Filepath)  values(\'" + fileName + "\',\'" + filePath + "\')";
@@ -182,7 +182,7 @@ namespace TEF_Photo_Transfer
 
             }
         }
-
+*/
         private void buttonExit_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -331,14 +331,14 @@ namespace TEF_Photo_Transfer
             //run query to extract all data in the photos table
             string query = "select * from dbo.t_tefPhotos order by PhotoName";
             buttonHTML.Enabled = false;
-            SQL_Class sql = new SQL_Class(SERVER,DBNAME,USER,PWD);
-            string result = sql.Execute(query);
+            //SQL_Class sql = new SQL_Class(SERVER,DBNAME,USER,PWD);
+            //string result = sql.Execute(query);
 
             using (System.IO.StreamWriter file = new System.IO.StreamWriter(AppDomain.CurrentDomain.BaseDirectory + @"\templisting.txt", false))
             {
                 try
                 {                    
-                    file.Write(result);
+               //     file.Write(result);
                     file.Close();
                 }
                 catch (IOException ex)
